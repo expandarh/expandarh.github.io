@@ -1,11 +1,31 @@
 # Site navigation links
 
-- title: Our Community
-  url: /
+- title: Home
+  url: https://expandarh.github.io
   excerpt:
   image:
 
-- title: Our Collection
-  url: /collection
+- title: Who
+  url: /Who
+  excerpt:
+  image:
+
+- title: What
+  url: /What
+  excerpt:
+  image:
+
+  - title: Why
+  url: /Why
+  excerpt:
+  image:
+
+  - title: How
+  url: /How
+  excerpt:
+  image:
+
+  - title: Where
+  url: /Where
   excerpt:
   image:
