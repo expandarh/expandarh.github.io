@@ -1,17 +1,9 @@
 ---
-title: IDAH Community Archiving Template
+title: Expand Art History
 layout: homepage
 permalink: /
 ---
 
-The Archiving Out of the Box team supports community storytelling with a  digital archiving and storytelling kit. This demo site has examples of 3 different kinds of community contributions: scanned/screencaptured documents, photos of objects, and vidoes.
+The typical impression of art history is that its essence lies in a chronological timeline, highlighting the most “important” objects made by the “greatest” artists. The implicit message here is that art history is about preservation, not participation. While History programs have embraced public history as a subfield with specialized conferences, journals, and PhD programs, art history has not yet adopted a formal framework that might serve as a counterpoint. In her article, “Cultivating an Engaged Art History from Interdisciplinary Roots” (2021), Laura Holzman outlines key recommendations for doing engaged art history that works to embrace activism and advocacy. These practices, while deeply valuable, have focused almost exclusively on exhibitions, curatorial collaboration, or museum-based engagement; therefore, public-facing work within art history has been conflated with museum studies or community arts programming.
 
-Visit our main site for information on how to build relationships, hold community-storytelling collection events, build the collection using our template site, and use community stories for practical community-improvement projects.
-
-Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
-
-Principal Project Team:
-- Michelle Dalmau
-- Vanessa Elias
-- Kalani Craig
-- Jazma Sutton
+In this presentation, I propose an expansion of Holzman’s model, one rooted in disciplinary work but seeking transdisciplinary applications, thereby positioning art history as a socially responsive discipline that can illuminate intersections and parallels between fields. Using an open-ended deep map approach and DigitalArc, an open-access digital platform developed to support community archives, I will demonstrate how an engaged art history offers a framework for a case study exploring the intersection between reproductive justice and art history. This project will demonstrate a variety of potential approaches to addressing this topic such as a crowdsourced syllabus, an interactive deep map, and conversations with experts that highlight multidisciplinary perspectives on reproductive justice. In doing so, I will model how art history exists beyond the classroom and alongside peer programs as a mode of advocacy, empathy, and engagement. 
