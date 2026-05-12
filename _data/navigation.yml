@@ -5,27 +5,22 @@
   excerpt:
   image:
 
-- title: Who
+- title: Student Guide
+  url: /Guide
+  excerpt:
+  image:
+
+  - title: Who
   url: /Who
   excerpt:
   image:
 
-- title: What
-  url: /What
+  - title: Research
+  url: /https://docs.google.com/document/d/e/2PACX-1vQyTmPG2qmrtF8P8zqdvtfkMEARAGH11mXZq65hPmDpEK0kdPqG5zfznpjmRDQDyZUsfQYEtvyWCy4c/pub 
   excerpt:
   image:
 
-- title: Why
-  url: /Why
-  excerpt:
-  image:
-
-- title: How
-  url: /How
-  excerpt:
-  image:
-
-- title: Where
-  url: /Where
+- title: CV
+  url: https://expandarh.github.io
   excerpt:
   image:
